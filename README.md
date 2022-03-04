@@ -1,6 +1,7 @@
 # Autopano
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 CMSC 733 Project 1 - AutoPano: Repository for image stitching using traditional CV and deep learning approach
 
 ---
@@ -95,7 +96,7 @@ SOFTWARE.
 ## How to build
 
 ```
-git clone --recursive https://github.com/iamjadhav/Human_Obstacle_Detector
+git clone --recursive https://github.com/iamjadhav/autopano.git
 cd autopano
 ```
 
